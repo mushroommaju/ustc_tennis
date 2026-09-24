@@ -1,5 +1,7 @@
 # USTC Tennis Assistant
 
+English | [简体中文](README.zh-CN.md)
+
 Experimental tennis booking assistant with strict local configuration, availability preview,
 single-attempt submission, persistent duplicate prevention and order verification.
 
